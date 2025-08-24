@@ -19,7 +19,6 @@ tags:
 - **Datasets:**
 	- `data/raw/financial_news.csv` (Spanish headlines)
 	- `data/processed/financial_phrasebank_google_translate_es.csv` (PhraseBank, translated)
-- **Augmentation:** Back-translation for class balancing
 - **Key hyperparameters:**
 	- learning_rate: ~2.8e-5
 	- weight_decay: 0.1
