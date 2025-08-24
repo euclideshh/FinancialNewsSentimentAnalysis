@@ -31,7 +31,7 @@ tags:
 - Accuracy: ~0.83
 - F1-score: ~0.83
 - Classification Report:
--
+--
 |               | precision | recall | f1-score | support |
 |:--------------|:---------:|:------:|:--------:|--------:|
 | Positive      |   0.78    |  0.69  |   0.73   |    1095 |
