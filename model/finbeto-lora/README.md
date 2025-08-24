@@ -57,6 +57,9 @@ with torch.no_grad():
 		pred = torch.argmax(logits, dim=1).item()
 		print(["negative", "neutral", "positive"][pred])
 ```
+## Contact:
+For more information or to stay in touch, please visit:
+https://github.com/euclideshh/FinancialNewsSentimentAnalysis
 
 ## License
 MIT License
