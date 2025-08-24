@@ -28,8 +28,6 @@ tags:
 - **Precision:** fp16
 
 ## Metrics
-- Accuracy: ~0.83
-- F1-score: ~0.83
 - Classification Report:
 ---
 |               | precision | recall | f1-score | support |
