@@ -31,7 +31,7 @@ tags:
 - Accuracy: ~0.83
 - F1-score: ~0.83
 - Classification Report:
---
+---
 |               | precision | recall | f1-score | support |
 |:--------------|:---------:|:------:|:--------:|--------:|
 | Positive      |   0.78    |  0.69  |   0.73   |    1095 |
@@ -41,7 +41,7 @@ tags:
 | **accuracy**  |           |        | **0.76** |    2743 |
 | **macro avg** | **0.77**  |**0.77**| **0.77** |    2743 |
 | **weighted avg** | **0.77** |**0.76**| **0.76** |    2743 |
-
+---
 (See `notebooks/3_beto-bert_fine_tuning.ipynb` for details)
 
 ## Usage Example
