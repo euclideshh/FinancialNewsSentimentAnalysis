@@ -1,18 +1,16 @@
-polars
+# Essential dependencies for FinancialNewsSentimentAnalysis
 pandas
+polars
 numpy
-spacy
 scikit-learn
 matplotlib
 seaborn
-wordcloud
 jupyter
-sentence-transformers
 imbalanced-learn
 torch
 transformers
 sentencepiece
 datasets
-tensorflow
 peft
-tf-keras
+optuna
+wordcloud
