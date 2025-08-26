@@ -1,11 +1,12 @@
+"""
+This script is to upload the trained model and tokenizer to Hugging Face Hub.
+"""
+    
 import os
 from dotenv import load_dotenv
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 def upload_final_model():
-    """
-    Upload the final model and tokenizer to Hugging Face Hub.
-    """
     load_dotenv()
     # Setting path and repository ID    
     local_model_path = "../../model/finbeto-lora"
