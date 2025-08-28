@@ -16,7 +16,7 @@ from typing import List, Dict, Optional
 from datetime import datetime
 
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-file_path = f"../../data/raw/news_headlines_{timestamp}.csv"
+file_path = f"../../data/raw/financial_news_headlines_{timestamp}.csv"
 
 # Configure logging
 logging.basicConfig(
